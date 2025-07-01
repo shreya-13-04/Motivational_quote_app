@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🙋‍♀️ Author
 Shreya Balasubramani
-Feel free to connect with me on GitHub
+- Feel free to connect with me on GitHub
